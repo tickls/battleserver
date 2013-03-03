@@ -1,0 +1,11 @@
+{
+    "name": "battleserver",
+    "description": "Battle Server for the IceMobile developer challange",
+    "author": "Evan <evan@icemobile.com>",
+    "version": "0.4.3",
+    "dependencies": {
+        "colorize": "0.1.x",
+        "sylvester": "0.0.x"
+    },
+    "engine": "node >= 0.4.1"
+}
