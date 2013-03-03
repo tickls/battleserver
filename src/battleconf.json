@@ -1,0 +1,34 @@
+{
+    "server": {
+        "version": "0.4.2",
+        "protocolVersion": "0.4.0",
+        "clientDownstreamPort": 1359,
+        "clientUpstreamPort": 1360,
+        "logLevel": 2,
+        "portInUseRetryInterval": 5,
+        "tickRate": 20,
+        "clientUpdateTickRate": 0.5
+    },
+    "game": {
+        "rules": {
+            "moveSpeed": 50,
+            "rotationSpeed": 5,
+            "turretRotationSpeed": 35,
+            "fireInterval": 2,
+            "ballisticsTravelSpeed": 150,
+            "fieldOfView": 90,
+            "turretFieldOfView": 45,
+            "hp": 100,
+            "ballisticDamage": 20,
+            "enemyHitScore": 10,
+            "enemyKillScore": 50,
+            "tankStatusUpdateRate": 5
+        },
+        "map": {
+            "size": {
+                "width": 1000,
+                "height": 1000
+            }
+        }
+    }
+}
