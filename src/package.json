@@ -1,6 +1,6 @@
 {
     "name": "battleserver",
-    "description": "Battle Server for the IceMobile developer challange",
+    "description": "Battle Server for the IceMobile developer challenge",
     "author": "Evan <evan@icemobile.com>",
     "version": "0.4.3",
     "dependencies": {
